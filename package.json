@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@chriscourses/perlin-noise": "^1.0.6",
+    "dat.gui": "^0.7.9"
+  }
+}
